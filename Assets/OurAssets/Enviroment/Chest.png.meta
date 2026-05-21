@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: e3b996bd14ddb42479febeda703e71d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5796933463943113542
+    second: RPG Chests (2)_0
+  - first:
+      213: -8479018366672138673
+    second: RPG Chests (2)_1
+  - first:
+      213: -1404366793809319152
+    second: RPG Chests (2)_2
+  - first:
+      213: 979751707274458537
+    second: RPG Chests (2)_3
+  - first:
+      213: -172526647204779188
+    second: RPG Chests (2)_4
+  - first:
+      213: 270299798137662264
+    second: RPG Chests (2)_5
+  - first:
+      213: -5463705778683736235
+    second: RPG Chests (2)_6
+  - first:
+      213: 480848240193616339
+    second: RPG Chests (2)_7
+  - first:
+      213: 6602096715272464171
+    second: RPG Chests (2)_8
+  - first:
+      213: 6133145871408700215
+    second: RPG Chests (2)_9
+  - first:
+      213: -6973777911475050925
+    second: RPG Chests (2)_10
+  - first:
+      213: 8414075667287211416
+    second: RPG Chests (2)_11
+  - first:
+      213: 9219917536570792074
+    second: RPG Chests (2)_12
+  - first:
+      213: -4310097343088139478
+    second: RPG Chests (2)_13
+  - first:
+      213: 6467532112123282565
+    second: RPG Chests (2)_14
+  - first:
+      213: -3714038561574254187
+    second: RPG Chests (2)_15
+  - first:
+      213: -6722515021674169225
+    second: RPG Chests (2)_16
+  - first:
+      213: -8627758983702938214
+    second: RPG Chests (2)_17
+  - first:
+      213: -3321808971867073273
+    second: RPG Chests (2)_18
+  - first:
+      213: 1970418806548372429
+    second: RPG Chests (2)_19
+  - first:
+      213: 6893551026516675563
+    second: RPG Chests (2)_20
+  - first:
+      213: -6099967481273808626
+    second: RPG Chests (2)_21
+  - first:
+      213: -9185667405613680304
+    second: RPG Chests (2)_22
+  - first:
+      213: 4274432859100675050
+    second: RPG Chests (2)_23
+  - first:
+      213: 7507322570674941351
+    second: RPG Chests (2)_24
+  - first:
+      213: 5497191001966492109
+    second: RPG Chests (2)_25
+  - first:
+      213: -7466525747271133174
+    second: RPG Chests (2)_26
+  - first:
+      213: 3926904544499597125
+    second: RPG Chests (2)_27
+  - first:
+      213: -9017760571006811400
+    second: RPG Chests (2)_28
+  - first:
+      213: 2320849811323646218
+    second: RPG Chests (2)_29
+  - first:
+      213: -7604307722939147130
+    second: RPG Chests (2)_30
+  - first:
+      213: -1916198019567692006
+    second: RPG Chests (2)_31
+  - first:
+      213: 2478828447599125950
+    second: RPG Chests (2)_32
+  - first:
+      213: -5508221916007611081
+    second: RPG Chests (2)_33
+  - first:
+      213: -161224122223199767
+    second: RPG Chests (2)_34
+  - first:
+      213: -2077648873464326544
+    second: RPG Chests (2)_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG Chests (2)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4981f5ab72d8fa0800000000000000
+      internalID: -5796933463943113542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e8e7228b9745a80800000000000000
+      internalID: -8479018366672138673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b24a877dfa28ce0800000000000000
+      internalID: -1404366793809319152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a53d20acf6c89d00800000000000000
+      internalID: 979751707274458537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4be11fadef0b9df0800000000000000
+      internalID: -172526647204779188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83beadafb3c40c300800000000000000
+      internalID: 270299798137662264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f8e40da840d24b0800000000000000
+      internalID: -5463705778683736235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9bc934de05ca600800000000000000
+      internalID: 480848240193616339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27a69eabfb5f9b50800000000000000
+      internalID: 6602096715272464171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b18fcdcaf4d1550800000000000000
+      internalID: 6133145871408700215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356601c20f9283f90800000000000000
+      internalID: -6973777911475050925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d79ed5d3dc4c470800000000000000
+      internalID: 8414075667287211416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8852b9762ab3ff70800000000000000
+      internalID: 9219917536570792074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2360e56d457f24c0800000000000000
+      internalID: -4310097343088139478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5844a84803a41c950800000000000000
+      internalID: 6467532112123282565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59983472b95157cc0800000000000000
+      internalID: -3714038561574254187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c32e78434d4b2a0800000000000000
+      internalID: -6722515021674169225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d73b88aea044880800000000000000
+      internalID: -8627758983702938214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705582cf65096e1d0800000000000000
+      internalID: -3321808971867073273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb901ff675585b10800000000000000
+      internalID: 1970418806548372429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb4e809220daaf50800000000000000
+      internalID: 6893551026516675563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e098d3115ef885ba0800000000000000
+      internalID: -6099967481273808626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059338f8924f58080800000000000000
+      internalID: -9185667405613680304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf3f6d906d15b30800000000000000
+      internalID: 4274432859100675050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad2a5f3a1e5f2860800000000000000
+      internalID: 7507322570674941351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9bfa64712f94c40800000000000000
+      internalID: 5497191001966492109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0898976462916890800000000000000
+      internalID: -7466525747271133174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ff3c9a0ea2f7630800000000000000
+      internalID: 3926904544499597125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f28d9fe98a7ad280800000000000000
+      internalID: -9017760571006811400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a017af46b90553020800000000000000
+      internalID: 2320849811323646218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cd3735a62187690800000000000000
+      internalID: -7604307722939147130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 7
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a175c5cbd0c4865e0800000000000000
+      internalID: -1916198019567692006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 7
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb56746f651966220800000000000000
+      internalID: 2478828447599125950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7354858e95dde83b0800000000000000
+      internalID: -5508221916007611081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 7
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e979a9d38733cdf0800000000000000
+      internalID: -161224122223199767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Chests (2)_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0761b218b55ba23e0800000000000000
+      internalID: -2077648873464326544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RPG Chests (2)_0: -5796933463943113542
+      RPG Chests (2)_1: -8479018366672138673
+      RPG Chests (2)_10: -6973777911475050925
+      RPG Chests (2)_11: 8414075667287211416
+      RPG Chests (2)_12: 9219917536570792074
+      RPG Chests (2)_13: -4310097343088139478
+      RPG Chests (2)_14: 6467532112123282565
+      RPG Chests (2)_15: -3714038561574254187
+      RPG Chests (2)_16: -6722515021674169225
+      RPG Chests (2)_17: -8627758983702938214
+      RPG Chests (2)_18: -3321808971867073273
+      RPG Chests (2)_19: 1970418806548372429
+      RPG Chests (2)_2: -1404366793809319152
+      RPG Chests (2)_20: 6893551026516675563
+      RPG Chests (2)_21: -6099967481273808626
+      RPG Chests (2)_22: -9185667405613680304
+      RPG Chests (2)_23: 4274432859100675050
+      RPG Chests (2)_24: 7507322570674941351
+      RPG Chests (2)_25: 5497191001966492109
+      RPG Chests (2)_26: -7466525747271133174
+      RPG Chests (2)_27: 3926904544499597125
+      RPG Chests (2)_28: -9017760571006811400
+      RPG Chests (2)_29: 2320849811323646218
+      RPG Chests (2)_3: 979751707274458537
+      RPG Chests (2)_30: -7604307722939147130
+      RPG Chests (2)_31: -1916198019567692006
+      RPG Chests (2)_32: 2478828447599125950
+      RPG Chests (2)_33: -5508221916007611081
+      RPG Chests (2)_34: -161224122223199767
+      RPG Chests (2)_35: -2077648873464326544
+      RPG Chests (2)_4: -172526647204779188
+      RPG Chests (2)_5: 270299798137662264
+      RPG Chests (2)_6: -5463705778683736235
+      RPG Chests (2)_7: 480848240193616339
+      RPG Chests (2)_8: 6602096715272464171
+      RPG Chests (2)_9: 6133145871408700215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

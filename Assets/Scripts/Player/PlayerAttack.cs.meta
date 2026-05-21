@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 99975a0370b584f00b380a6752402b63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalShotAction: {fileID: 2304743925518058899, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  - punchAction: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  - ulti1Action: {fileID: 7040659881675835329, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  - ulti2Action: {fileID: 1781555164194001046, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  - attackBarObject: {instanceID: 0}
+  - snowballPrefab: {fileID: 1150347656358215148, guid: 75beb914597264b788bed59b2fd92ac1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

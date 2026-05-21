@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: ccd0c6a61418147eeb70ee17900cca2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4191007352708097220
+    second: "kurbag\u0306a yandan vurma anim-Sheet_0"
+  - first:
+      213: -3637726021053331700
+    second: "kurbag\u0306a yandan vurma anim-Sheet_1"
+  - first:
+      213: -5050630078792173402
+    second: "kurbag\u0306a yandan vurma anim-Sheet_2"
+  - first:
+      213: 5239453198618247868
+    second: "kurbag\u0306a yandan vurma anim-Sheet_3"
+  - first:
+      213: 5368506654840520482
+    second: "kurbag\u0306a yandan vurma anim-Sheet_4"
+  - first:
+      213: 9167777421620389608
+    second: "kurbag\u0306a yandan vurma anim-Sheet_5"
+  - first:
+      213: -559980110360657347
+    second: "kurbag\u0306a yandan vurma anim-Sheet_6"
+  - first:
+      213: 752651643681306285
+    second: "kurbag\u0306a yandan vurma anim-Sheet_7"
+  - first:
+      213: -2911451272992683129
+    second: "kurbag\u0306a yandan vurma anim-Sheet_8"
+  - first:
+      213: -6404005928563219680
+    second: "kurbag\u0306a yandan vurma anim-Sheet_9"
+  - first:
+      213: 4076543075853483641
+    second: "kurbag\u0306a yandan vurma anim-Sheet_10"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4673d7bf2792a30800000000000000
+      internalID: 4191007352708097220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 143
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07cbe41573348dc0800000000000000
+      internalID: -3637726021053331700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a870b5e3be88e9b0800000000000000
+      internalID: -5050630078792173402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 143
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2cce0ace646b840800000000000000
+      internalID: 5239453198618247868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ff618eb54c08a40800000000000000
+      internalID: 5368506654840520482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 79
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6a783fdfc7a3f70800000000000000
+      internalID: 9167777421620389608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 79
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d324ba87e0d8a38f0800000000000000
+      internalID: -559980110360657347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 79
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6fc35aea4f17a00800000000000000
+      internalID: 752651643681306285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b89642e727897d0800000000000000
+      internalID: -2911451272992683129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0236e70b9866027a0800000000000000
+      internalID: -6404005928563219680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kurbag\u0306a yandan vurma anim-Sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 15
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e33db345ac29830800000000000000
+      internalID: 4076543075853483641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "kurbag\u0306a yandan vurma anim-Sheet_0": 4191007352708097220
+      "kurbag\u0306a yandan vurma anim-Sheet_1": -3637726021053331700
+      "kurbag\u0306a yandan vurma anim-Sheet_10": 4076543075853483641
+      "kurbag\u0306a yandan vurma anim-Sheet_2": -5050630078792173402
+      "kurbag\u0306a yandan vurma anim-Sheet_3": 5239453198618247868
+      "kurbag\u0306a yandan vurma anim-Sheet_4": 5368506654840520482
+      "kurbag\u0306a yandan vurma anim-Sheet_5": 9167777421620389608
+      "kurbag\u0306a yandan vurma anim-Sheet_6": -559980110360657347
+      "kurbag\u0306a yandan vurma anim-Sheet_7": 752651643681306285
+      "kurbag\u0306a yandan vurma anim-Sheet_8": -2911451272992683129
+      "kurbag\u0306a yandan vurma anim-Sheet_9": -6404005928563219680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

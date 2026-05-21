@@ -1,0 +1,2045 @@
+fileFormatVersion: 2
+guid: 82fd68e481614bf4194d1226ffde2cd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7368833148651896661
+    second: Genel_0
+  - first:
+      213: 760223914600798720
+    second: Genel_1
+  - first:
+      213: -7326159997060170570
+    second: Genel_2
+  - first:
+      213: -2451067318281809608
+    second: Genel_3
+  - first:
+      213: 7899420242321144553
+    second: Genel_4
+  - first:
+      213: -5659998874459750467
+    second: Genel_5
+  - first:
+      213: 654725793985470869
+    second: Genel_6
+  - first:
+      213: -4138055091172115732
+    second: Genel_7
+  - first:
+      213: -3378544054315864647
+    second: Genel_8
+  - first:
+      213: -4606491455863432829
+    second: Genel_9
+  - first:
+      213: 4166453793690946712
+    second: Genel_10
+  - first:
+      213: -3806891062635526867
+    second: Genel_11
+  - first:
+      213: 8130683327683436297
+    second: Genel_12
+  - first:
+      213: -8203637603184601832
+    second: Genel_13
+  - first:
+      213: 6267049233737167163
+    second: Genel_14
+  - first:
+      213: 2908061503269174041
+    second: Genel_15
+  - first:
+      213: 3662898476318083677
+    second: Genel_16
+  - first:
+      213: 8166238684670521722
+    second: Genel_17
+  - first:
+      213: -5076083470405807494
+    second: Genel_18
+  - first:
+      213: 5366633572477087942
+    second: Genel_19
+  - first:
+      213: -8057249350438929884
+    second: Genel_20
+  - first:
+      213: 8297454889944181902
+    second: Genel_21
+  - first:
+      213: -6347813064008135457
+    second: Genel_22
+  - first:
+      213: -3580920987185159830
+    second: Genel_23
+  - first:
+      213: -2034310210018305293
+    second: Genel_24
+  - first:
+      213: -195127868541931401
+    second: Genel_25
+  - first:
+      213: 8910578859703743489
+    second: Genel_26
+  - first:
+      213: 1502150223112244881
+    second: Genel_27
+  - first:
+      213: 1649463655105666120
+    second: Genel_28
+  - first:
+      213: 3734115804086373614
+    second: Genel_29
+  - first:
+      213: -8677905259720632619
+    second: Genel_30
+  - first:
+      213: -5956191896022642968
+    second: Genel_31
+  - first:
+      213: 4788468821124040367
+    second: Genel_32
+  - first:
+      213: 3280428903868020022
+    second: Genel_33
+  - first:
+      213: 8665886211698545298
+    second: Genel_34
+  - first:
+      213: -4661121371008775230
+    second: Genel_35
+  - first:
+      213: -4391354990316931458
+    second: Genel_36
+  - first:
+      213: -3689842308390194738
+    second: Genel_37
+  - first:
+      213: -7716641636747947375
+    second: Genel_38
+  - first:
+      213: -8531059402739069400
+    second: Genel_39
+  - first:
+      213: -2946715679684954771
+    second: Genel_40
+  - first:
+      213: -5388873100017455019
+    second: Genel_41
+  - first:
+      213: 8353941138936888217
+    second: Genel_42
+  - first:
+      213: 3682300853736280911
+    second: Genel_43
+  - first:
+      213: -5894088181585000738
+    second: Genel_44
+  - first:
+      213: 7415249722761503048
+    second: Genel_45
+  - first:
+      213: -7814635951206494274
+    second: Genel_46
+  - first:
+      213: 740715911119682378
+    second: Genel_47
+  - first:
+      213: 6226849864167269719
+    second: Genel_48
+  - first:
+      213: -1651969527154173941
+    second: Genel_49
+  - first:
+      213: 8445116702315070068
+    second: Genel_50
+  - first:
+      213: -2044612976980324398
+    second: Genel_51
+  - first:
+      213: 5919794986248113182
+    second: Genel_52
+  - first:
+      213: 7347491732358851935
+    second: Genel_53
+  - first:
+      213: -2744985468039516833
+    second: Genel_54
+  - first:
+      213: -898112065248799065
+    second: Genel_55
+  - first:
+      213: -6643318038593397154
+    second: Genel_56
+  - first:
+      213: 8379361232488221485
+    second: Genel_57
+  - first:
+      213: 5305399171875487603
+    second: Genel_58
+  - first:
+      213: 6800555889583310458
+    second: Genel_59
+  - first:
+      213: -2326434425719907628
+    second: Genel_60
+  - first:
+      213: 9191230208209166350
+    second: Genel_61
+  - first:
+      213: -3572339869078373000
+    second: Genel_62
+  - first:
+      213: -5886343127119842439
+    second: Genel_63
+  - first:
+      213: -105883943953920427
+    second: Genel_64
+  - first:
+      213: -971619107747246942
+    second: Genel_65
+  - first:
+      213: -5021310732664039023
+    second: Genel_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genel_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 386
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ff48af4ba534660800000000000000
+      internalID: 7368833148651896661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 412
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a998b5f9bdc8a00800000000000000
+      internalID: 760223914600798720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 389
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc3d8f5c40445a90800000000000000
+      internalID: -7326159997060170570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 409
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8315e35a24f0cfdd0800000000000000
+      internalID: -2451067318281809608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 409
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaf4138bd060ad60800000000000000
+      internalID: 7899420242321144553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 409
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf37baf205a371b0800000000000000
+      internalID: -5659998874459750467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 404
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5912ac704ad061900800000000000000
+      internalID: 654725793985470869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 404
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea70b5a1dca296c0800000000000000
+      internalID: -4138055091172115732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 404
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdae7835100d11d0800000000000000
+      internalID: -3378544054315864647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 404
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38953685d647210c0800000000000000
+      internalID: -4606491455863432829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 404
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c070a86a732d930800000000000000
+      internalID: 4166453793690946712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 404
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2500019fb43b2bc0800000000000000
+      internalID: -3806891062635526867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 404
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f13c7886df5d070800000000000000
+      internalID: 8130683327683436297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 382
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815152c8013d62e80800000000000000
+      internalID: -8203637603184601832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 383
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b9c6e21809f650800000000000000
+      internalID: 6267049233737167163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 329
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bf85797828b5820800000000000000
+      internalID: 2908061503269174041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 329
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a4241e1ca35d230800000000000000
+      internalID: 3662898476318083677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 329
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71f6de21de445170800000000000000
+      internalID: 8166238684670521722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 329
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72da385af02e89b0800000000000000
+      internalID: -5076083470405807494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 337
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0be2feccc1a7a40800000000000000
+      internalID: 5366633572477087942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a3758a766ee2090800000000000000
+      internalID: -8057249350438929884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 328
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c63f6b24b762370800000000000000
+      internalID: 8297454889944181902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 328
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc063386a908e7a0800000000000000
+      internalID: -6347813064008135457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 328
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61661ea5530e4ec0800000000000000
+      internalID: -3580920987185159830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_24
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 328
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa98e864ada4c3e0800000000000000
+      internalID: -2034310210018305293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 286
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77077c5cc34ca4df0800000000000000
+      internalID: -195127868541931401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 286
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1043fbb334cb8ab70800000000000000
+      internalID: 8910578859703743489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 269
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e01ef4ba5b8d410800000000000000
+      internalID: 1502150223112244881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 266
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c9d70847214e610800000000000000
+      internalID: 1649463655105666120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 248
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec8db42a8e32d330800000000000000
+      internalID: 3734115804086373614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_30
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 248
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d69bdfc423e19780800000000000000
+      internalID: -8677905259720632619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 250
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee828f170b575da0800000000000000
+      internalID: -5956191896022642968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_32
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 250
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6c12db50f047240800000000000000
+      internalID: 4788468821124040367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_33
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 250
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6353af525bc668d20800000000000000
+      internalID: 3280428903868020022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 270
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2925f308899634870800000000000000
+      internalID: 8665886211698545298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 270
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb4a0a0fce505fb0800000000000000
+      internalID: -4661121371008775230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 270
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76358717e5ce03c0800000000000000
+      internalID: -4391354990316931458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 233
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1f13b58fb0bccc0800000000000000
+      internalID: -3689842308390194738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_38
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 239
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19256aed05bf8e490800000000000000
+      internalID: -7716641636747947375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_39
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 232
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e4bf53ca69b9980800000000000000
+      internalID: -8531059402739069400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 232
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65fd42a3b92b17d0800000000000000
+      internalID: -2946715679684954771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 232
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5503dcd8770e635b0800000000000000
+      internalID: -5388873100017455019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 158
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bfadc64392fe370800000000000000
+      internalID: 8353941138936888217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_43
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 176
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f439117ed192a1330800000000000000
+      internalID: 3682300853736280911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_44
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 192
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed64ccde60ef33ea0800000000000000
+      internalID: -5894088181585000738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 94
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841630ec55248e660800000000000000
+      internalID: 7415249722761503048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 94
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf075f8106dc8390800000000000000
+      internalID: -7814635951206494274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bb4c9523d874a00800000000000000
+      internalID: 740715911119682378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 86
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755216fc5f63a6650800000000000000
+      internalID: 6226849864167269719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 94
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b089432b7760319e0800000000000000
+      internalID: -1651969527154173941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_50
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 113
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472453885e4133570800000000000000
+      internalID: 8445116702315070068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 114
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df0feb845310a3e0800000000000000
+      internalID: -2044612976980324398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 46
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c0572fc26572250800000000000000
+      internalID: 5919794986248113182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 46
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d6e594dc887f560800000000000000
+      internalID: 7347491732358851935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_54
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 46
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d25e7a24ad7e9d0800000000000000
+      internalID: -2744985468039516833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_55
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 46
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a65a56c5d34983f0800000000000000
+      internalID: -898112065248799065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_56
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 46
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e12b311713ec3a0800000000000000
+      internalID: -6643318038593397154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 46
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bc32b25a8794470800000000000000
+      internalID: 8379361232488221485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_58
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 44
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f3a47007090a940800000000000000
+      internalID: 5305399171875487603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76cdc9fc8d606e50800000000000000
+      internalID: 6800555889583310458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da99bd3738d6bfd0800000000000000
+      internalID: -2326434425719907628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_61
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 44
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00a5295d2fcd8f70800000000000000
+      internalID: 9191230208209166350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_62
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 14
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d3e9ee0df7c6ec0800000000000000
+      internalID: -3572339869078373000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_63
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 14
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973b5f1fc128f4ea0800000000000000
+      internalID: -5886343127119842439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_64
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e853d2d13d78ef0800000000000000
+      internalID: -105883943953920427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 14
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac4eb1c19d1482f0800000000000000
+      internalID: -971619107747246942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_66
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 14
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19914b02e78b05ab0800000000000000
+      internalID: -5021310732664039023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_67
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12979832c7aa38f4885fc56ee0210d61
+      internalID: -641189729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 14
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d115f45e73e1456499ad5d77deec48fd
+      internalID: 927919182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_69
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 14
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38fcad1540af5e45b4e7e26b6085247
+      internalID: -1708331251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac581be507fbe5749a94e58ccdc54383
+      internalID: -488190565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_71
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 14
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb67b61f0746ae04bb5f1af2ded40ef1
+      internalID: -1744339135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_72
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 14
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c088bf2de6cb46bfbfe75c68e2cdf
+      internalID: -1276058255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_73
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 15
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8ce33c391212046b1220aacf85dd43
+      internalID: -1427616345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genel_74
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 14
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd65471e2a866f4884a290fe5b557e9
+      internalID: -1215488799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 25620e49b7b740545a0de3a40e1aea22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Genel_0: 7368833148651896661
+      Genel_1: 760223914600798720
+      Genel_10: 4166453793690946712
+      Genel_11: -3806891062635526867
+      Genel_12: 8130683327683436297
+      Genel_13: -8203637603184601832
+      Genel_14: 6267049233737167163
+      Genel_15: 2908061503269174041
+      Genel_16: 3662898476318083677
+      Genel_17: 8166238684670521722
+      Genel_18: -5076083470405807494
+      Genel_19: 5366633572477087942
+      Genel_2: -7326159997060170570
+      Genel_20: -8057249350438929884
+      Genel_21: 8297454889944181902
+      Genel_22: -6347813064008135457
+      Genel_23: -3580920987185159830
+      Genel_24: -2034310210018305293
+      Genel_25: -195127868541931401
+      Genel_26: 8910578859703743489
+      Genel_27: 1502150223112244881
+      Genel_28: 1649463655105666120
+      Genel_29: 3734115804086373614
+      Genel_3: -2451067318281809608
+      Genel_30: -8677905259720632619
+      Genel_31: -5956191896022642968
+      Genel_32: 4788468821124040367
+      Genel_33: 3280428903868020022
+      Genel_34: 8665886211698545298
+      Genel_35: -4661121371008775230
+      Genel_36: -4391354990316931458
+      Genel_37: -3689842308390194738
+      Genel_38: -7716641636747947375
+      Genel_39: -8531059402739069400
+      Genel_4: 7899420242321144553
+      Genel_40: -2946715679684954771
+      Genel_41: -5388873100017455019
+      Genel_42: 8353941138936888217
+      Genel_43: 3682300853736280911
+      Genel_44: -5894088181585000738
+      Genel_45: 7415249722761503048
+      Genel_46: -7814635951206494274
+      Genel_47: 740715911119682378
+      Genel_48: 6226849864167269719
+      Genel_49: -1651969527154173941
+      Genel_5: -5659998874459750467
+      Genel_50: 8445116702315070068
+      Genel_51: -2044612976980324398
+      Genel_52: 5919794986248113182
+      Genel_53: 7347491732358851935
+      Genel_54: -2744985468039516833
+      Genel_55: -898112065248799065
+      Genel_56: -6643318038593397154
+      Genel_57: 8379361232488221485
+      Genel_58: 5305399171875487603
+      Genel_59: 6800555889583310458
+      Genel_6: 654725793985470869
+      Genel_60: -2326434425719907628
+      Genel_61: 9191230208209166350
+      Genel_62: -3572339869078373000
+      Genel_63: -5886343127119842439
+      Genel_64: -105883943953920427
+      Genel_65: -971619107747246942
+      Genel_66: -5021310732664039023
+      Genel_67: -641189729
+      Genel_68: 927919182
+      Genel_69: -1708331251
+      Genel_7: -4138055091172115732
+      Genel_70: -488190565
+      Genel_71: -1744339135
+      Genel_72: -1276058255
+      Genel_73: -1427616345
+      Genel_74: -1215488799
+      Genel_8: -3378544054315864647
+      Genel_9: -4606491455863432829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

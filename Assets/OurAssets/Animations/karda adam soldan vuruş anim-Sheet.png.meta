@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 57efb455c31ed46efb1c60a76553c8c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1199497435189284191
+    second: "karda adam soldan vurus\u0327 anim-Sheet_0"
+  - first:
+      213: -8573157982525831506
+    second: "karda adam soldan vurus\u0327 anim-Sheet_1"
+  - first:
+      213: 3776707562250371400
+    second: "karda adam soldan vurus\u0327 anim-Sheet_2"
+  - first:
+      213: -130239125647662851
+    second: "karda adam soldan vurus\u0327 anim-Sheet_3"
+  - first:
+      213: 6995253804661549584
+    second: "karda adam soldan vurus\u0327 anim-Sheet_4"
+  - first:
+      213: 6665639617574528921
+    second: "karda adam soldan vurus\u0327 anim-Sheet_5"
+  - first:
+      213: -59927300145297940
+    second: "karda adam soldan vurus\u0327 anim-Sheet_6"
+  - first:
+      213: -6805207934277241774
+    second: "karda adam soldan vurus\u0327 anim-Sheet_7"
+  - first:
+      213: -3936120542685125580
+    second: "karda adam soldan vurus\u0327 anim-Sheet_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "karda adam soldan vurus\u0327 anim-Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 173
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2fc8a10778a5fe0800000000000000
+      internalID: -1199497435189284191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "karda adam soldan vurus\u0327 anim-Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 173
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea64e38cc36060980800000000000000
+      internalID: -8573157982525831506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "karda adam soldan vurus\u0327 anim-Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 173
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841077c948f896430800000000000000
+      internalID: 3776707562250371400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "karda adam soldan vurus\u0327 anim-Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 93
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0e9eb843c413ef0800000000000000
+      internalID: -130239125647662851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "karda adam soldan vurus\u0327 anim-Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 93
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a2d8cd542241160800000000000000
+      internalID: 6995253804661549584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "karda adam soldan vurus\u0327 anim-Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 93
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997ec468aeb118c50800000000000000
+      internalID: 6665639617574528921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "karda adam soldan vurus\u0327 anim-Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 15
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5cd7220781b2ff0800000000000000
+      internalID: -59927300145297940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "karda adam soldan vurus\u0327 anim-Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 15
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2543cb6707b0f81a0800000000000000
+      internalID: -6805207934277241774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "karda adam soldan vurus\u0327 anim-Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 15
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a22c88371069c0800000000000000
+      internalID: -3936120542685125580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "karda adam soldan vurus\u0327 anim-Sheet_0": -1199497435189284191
+      "karda adam soldan vurus\u0327 anim-Sheet_1": -8573157982525831506
+      "karda adam soldan vurus\u0327 anim-Sheet_2": 3776707562250371400
+      "karda adam soldan vurus\u0327 anim-Sheet_3": -130239125647662851
+      "karda adam soldan vurus\u0327 anim-Sheet_4": 6995253804661549584
+      "karda adam soldan vurus\u0327 anim-Sheet_5": 6665639617574528921
+      "karda adam soldan vurus\u0327 anim-Sheet_6": -59927300145297940
+      "karda adam soldan vurus\u0327 anim-Sheet_7": -6805207934277241774
+      "karda adam soldan vurus\u0327 anim-Sheet_8": -3936120542685125580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
