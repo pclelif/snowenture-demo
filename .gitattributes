@@ -1,0 +1,36 @@
+* text=auto
+
+# Unity YAML files should use consistent line endings.
+*.anim text eol=lf
+*.asset text eol=lf
+*.controller text eol=lf
+*.mat text eol=lf
+*.meta text eol=lf
+*.prefab text eol=lf
+*.unity text eol=lf
+
+# Treat common binary assets as binary.
+*.ai binary
+*.aif binary
+*.aiff binary
+*.blend binary
+*.bmp binary
+*.eps binary
+*.fbx binary
+*.gif binary
+*.jpeg binary
+*.jpg binary
+*.mp3 binary
+*.mp4 binary
+*.ogg binary
+*.otf binary
+*.pdf binary
+*.png binary
+*.psd binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.ttf binary
+*.wav binary
+*.woff binary
+*.woff2 binary
