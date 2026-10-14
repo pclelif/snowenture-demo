@@ -2,7 +2,11 @@
 
 Snowventure is a top-down 2D action-adventure prototype built with Unity. Play as a snowman, explore a winter-themed map, fight enemies with melee and ranged attacks, collect rewards, and unlock upgrades.
 
-> This repository is an early learning project. It is shared as a portfolio/archive project and may still contain prototype-quality systems.
+> This repository is an early learning project. It is shared as a portfolio and archive project and may still contain prototype-quality systems.
+
+## Demo
+
+Curious how it plays? [Watch the gameplay video](https://youtu.be/r8eVF52w0Yo) to see the snowman dash, punch, and throw snowballs through the winter map.
 
 ## Features
 
@@ -12,7 +16,7 @@ Snowventure is a top-down 2D action-adventure prototype built with Unity. Play a
 - Enemy encounters, hazards, and room-clear progression
 - Chests, keys, doors, coins, and interactive upgrade statues
 - Health, attack, pause, and in-game menu UI
-- 2D lighting and rendering with Unity's Universal Render Pipeline
+- 2D lighting and rendering with the Universal Render Pipeline
 
 ## Controls
 
@@ -24,8 +28,10 @@ Snowventure is a top-down 2D action-adventure prototype built with Unity. Play a
 | Throw snowball | Right mouse button | West button |
 | Spread ultimate | `Q` | Left shoulder |
 | Heavy ultimate | `E` | Right shoulder |
-| Interact | `F` (some prototype chests use `R`) | South button |
-| In-game menu | Tab | — |
+| Interact | `F` | South button |
+| In-game menu | Tab | Not mapped |
+
+Some prototype chests use `R` instead of `F`.
 
 ## Requirements
 
@@ -72,7 +78,7 @@ ProjectSettings/         # Project-wide Unity settings
 
 - Unity 6
 - C#
-- Universal Render Pipeline (URP) 2D
+- Universal Render Pipeline 2D
 - Unity Input System
 - Cinemachine
 - Unity Tilemap
@@ -80,8 +86,8 @@ ProjectSettings/         # Project-wide Unity settings
 
 ## Known Limitations
 
-- This is a demo/prototype rather than a finished release.
-- Some controls and interactions were implemented independently and are not yet fully standardized.
+- This is a demo and prototype rather than a finished release.
+- Interaction keys are not consistent across all chests.
 - Automated tests and distributable builds are not currently included.
 
 ## Third-Party Assets and License
